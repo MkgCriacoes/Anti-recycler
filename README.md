@@ -1,4 +1,5 @@
 # Anti-recycler
+## Autor: Markus Luan ------ 2014
 Um antivírus para pendrive que eu havia criado usando o cmd antes de 2015 e nem lembrava mais dele
 
 Creditos a <b> Charles Vinicius </b> por me ter feito lembrar em um comentario no video [Como criar um programa no cmd](https://youtu.be/eWvLo5o7KqE) no canal <b>Rodrigo Ranea</b>
